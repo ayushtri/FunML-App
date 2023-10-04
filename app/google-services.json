@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "126680800178",
+    "project_id": "tflitemodelstest",
+    "storage_bucket": "tflitemodelstest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126680800178:android:3f1c165c055a27b04de2ab",
+        "android_client_info": {
+          "package_name": "com.celes.imgreco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126680800178-27b2c823vts2mdb9brmrcc9i7vdig36b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAscnQIVnQHh0rzVv52_XqeJfctTlGS5dM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126680800178-27b2c823vts2mdb9brmrcc9i7vdig36b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

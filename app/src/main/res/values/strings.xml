@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImgReco</string>
+    <string name="cantClassify">Couldn\'t classify</string>
+    <string name="cantDetect">Couldn\'t detect</string>
+</resources>
